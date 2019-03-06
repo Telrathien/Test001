@@ -10,7 +10,7 @@ namespace GitTest01
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("GIT Hub Test.")
+            Console.WriteLine("GIT Hub Test.");
         }
     }
 }
